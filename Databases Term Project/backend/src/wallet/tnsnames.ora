@@ -1,0 +1,10 @@
+healthcaredata_high = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.ca-toronto-1.oraclecloud.com))(connect_data=(service_name=o8uk44hbwizuvdh_healthcaredata_high.atp.oraclecloud.com))(security=(ssl_server_cert_dn="CN=adb.ca-toronto-1.oraclecloud.com,OU=Oracle BMCS TORONTO,O=Oracle Corporation,L=Redwood City,ST=California,C=US")))
+
+healthcaredata_low = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.ca-toronto-1.oraclecloud.com))(connect_data=(service_name=o8uk44hbwizuvdh_healthcaredata_low.atp.oraclecloud.com))(security=(ssl_server_cert_dn="CN=adb.ca-toronto-1.oraclecloud.com,OU=Oracle BMCS TORONTO,O=Oracle Corporation,L=Redwood City,ST=California,C=US")))
+
+healthcaredata_medium = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.ca-toronto-1.oraclecloud.com))(connect_data=(service_name=o8uk44hbwizuvdh_healthcaredata_medium.atp.oraclecloud.com))(security=(ssl_server_cert_dn="CN=adb.ca-toronto-1.oraclecloud.com,OU=Oracle BMCS TORONTO,O=Oracle Corporation,L=Redwood City,ST=California,C=US")))
+
+healthcaredata_tp = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.ca-toronto-1.oraclecloud.com))(connect_data=(service_name=o8uk44hbwizuvdh_healthcaredata_tp.atp.oraclecloud.com))(security=(ssl_server_cert_dn="CN=adb.ca-toronto-1.oraclecloud.com,OU=Oracle BMCS TORONTO,O=Oracle Corporation,L=Redwood City,ST=California,C=US")))
+
+healthcaredata_tpurgent = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.ca-toronto-1.oraclecloud.com))(connect_data=(service_name=o8uk44hbwizuvdh_healthcaredata_tpurgent.atp.oraclecloud.com))(security=(ssl_server_cert_dn="CN=adb.ca-toronto-1.oraclecloud.com,OU=Oracle BMCS TORONTO,O=Oracle Corporation,L=Redwood City,ST=California,C=US")))
+

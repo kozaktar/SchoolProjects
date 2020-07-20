@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="406App:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/406App_jar</output-path>
+    <root id="archive" name="406App.jar">
+      <element id="module-output" name="406App" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/hsqldb.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

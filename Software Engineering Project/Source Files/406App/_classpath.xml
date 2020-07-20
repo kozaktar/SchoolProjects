@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="406App.jar"/>
+	<classpathentry kind="lib" path="libs/hsqldb.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/406App_jar/406App.jar"/>
+	<classpathentry kind="output" path="out/production/406App"/>
+</classpath>

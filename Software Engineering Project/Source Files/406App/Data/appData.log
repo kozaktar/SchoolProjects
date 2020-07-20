@@ -1,0 +1,736 @@
+/*C119*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C120*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C121*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C122*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C123*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C124*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C125*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C126*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C127*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C128*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C129*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C130*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C131*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C132*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C133*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C134*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C135*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C136*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C137*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C138*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C139*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C140*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C141*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C142*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C143*/SET SCHEMA PUBLIC
+DELETE FROM MEMBERS WHERE ID=27
+INSERT INTO MEMBERS VALUES(27,'David Gavin','4164151800','3 Toronto Street','C','no','1','1','0','10','10','davidgavin@ryerson.ca','4','\u000a Warnings: \u000a This is an automated message sent to remind you that you have outstanding payments. Please pay now.','Coach Messages: \u000aJust do it')
+COMMIT
+DISCONNECT
+/*C144*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C145*/SET SCHEMA PUBLIC
+DELETE FROM MEMBERS WHERE ID=27
+INSERT INTO MEMBERS VALUES(27,'David Gavin','4164151800','3 Toronto Street','C','no','1','1','0','10','10','davidgavin@ryerson.ca','4','\u000a Warnings: \u000a This is an automated message sent to remind you that you have outstanding payments. Please pay now.','Coach Messages: \u000aJust do it')
+COMMIT
+DISCONNECT
+/*C146*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C147*/SET SCHEMA PUBLIC
+DELETE FROM MEMBERS WHERE ID=32
+INSERT INTO MEMBERS VALUES(32,'Shawn Chris','4169057585','9 Toronto Street','C','yes','1','1','2','100','10','shawnchris@ryerson.ca','9','\u000a Warnings: \u000a This is an automated message sent to remind you that you have outstanding payments. Please pay now.','Coach Messages: \u000aJust do it')
+COMMIT
+DISCONNECT
+/*C148*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C149*/SET SCHEMA PUBLIC
+DELETE FROM MEMBERS WHERE ID=36
+INSERT INTO MEMBERS VALUES(36,'Hannah Olivia','4167163029','14 Toronto Street','C','no','3','1','1','5','-944.5938177273198','tkozak@ryerson.ca','14','\u000a Warnings: \u000a This is an automated message sent to remind you that you have outstanding payments. Please pay now.','Coach Messages: \u000aJust do it')
+COMMIT
+DISCONNECT
+/*C150*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C151*/SET SCHEMA PUBLIC
+DELETE FROM MEMBERS WHERE ID=37
+INSERT INTO MEMBERS VALUES(37,'Brianna Ella','4162323115','15 Toronto Street','C','no','9','15','1','70','132838.54066409852','briannaella@ryerson.ca','15','\u000a Warnings: \u000a This is an automated message sent to remind you that you have outstanding payments. Please pay now.','Coach Messages: \u000aJust do it')
+COMMIT
+DISCONNECT
+/*C152*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C153*/SET SCHEMA PUBLIC
+DELETE FROM MEMBERS WHERE ID=33
+INSERT INTO MEMBERS VALUES(33,'Michael Xavier','4164896370','10 Toronto Street','C','no','15','20','1','30','191118.7635454654','michaelxavier@ryerson.ca','10','\u000a Warnings: \u000a This is an automated message sent to remind you that you have outstanding payments. Please pay now.','Coach Messages: \u000aJust do it')
+COMMIT
+DISCONNECT
+/*C154*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C155*/SET SCHEMA PUBLIC
+DELETE FROM MEMBERS WHERE ID=29
+INSERT INTO MEMBERS VALUES(29,'Ryan Joel','4168077267','6 Toronto Street','C','yes','3','3','0','69','18167.282536819235','ryanjoel@ryerson.ca','6','\u000a Warnings: \u000a This is an automated message sent to remind you that you have outstanding payments. Please pay now.','Coach Messages: \u000aJust do it')
+COMMIT
+DISCONNECT
+/*C156*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C157*/SET SCHEMA PUBLIC
+DELETE FROM MEMBERS WHERE ID=28
+INSERT INTO MEMBERS VALUES(28,'James Danny','4162874981','5 Toronto Street','C','no','200','400','1','600','3811874.7389143086','jamesdanny@ryerson.ca','5','\u000a Warnings: \u000a This is an automated message sent to remind you that you have outstanding payments. Please pay now.','Coach Messages: \u000aJust do it')
+COMMIT
+DISCONNECT
+/*C158*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C159*/SET SCHEMA PUBLIC
+DELETE FROM MEMBERS WHERE ID=26
+INSERT INTO MEMBERS VALUES(26,'Aaron Gabriel','4166763469','2 Toronto Street','C','yes','2','5','2','20','47779.69088636635','aarongabriel@ryerson.ca','3','\u000a Warnings: \u000a This is an automated message sent to remind you that you have outstanding payments. Please pay now.','Coach Messages: \u000aJust do it')
+COMMIT
+DISCONNECT
+/*C160*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C161*/SET SCHEMA PUBLIC
+DELETE FROM MEMBERS WHERE ID=34
+INSERT INTO MEMBERS VALUES(34,'Emily Angelina','4168886392','12 Toronto Street','C','no','3','5','1','5','37279.15889136579','tkozak@ryerson.ca','12','\u000a Warnings: \u000a This is an automated message sent to remind you that you have outstanding payments. Please pay now.','Coach Messages: \u000aJust do it')
+COMMIT
+DISCONNECT
+/*C162*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C163*/SET SCHEMA PUBLIC
+DELETE FROM MEMBERS WHERE ID=31
+INSERT INTO MEMBERS VALUES(31,'Daniel Jayden','4163482198','8 Toronto Street','C','no','4','6','2','6','46835.097068639014','danieljayden@ryerson.ca','8','\u000a Warnings: \u000a This is an automated message sent to remind you that you have outstanding payments. Please pay now.','Coach Messages: \u000aJust do it')
+COMMIT
+DISCONNECT
+/*C164*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C165*/SET SCHEMA PUBLIC
+DELETE FROM MEMBERS WHERE ID=24
+INSERT INTO MEMBERS VALUES(24,'John Kip','4167583802','Toronto Street','C','yes','1','65','1','5','428.0','johnkip@ryerson.ca','1','\u000a Warnings: \u000a This is an automated message sent to remind you that you have outstanding payments. Please pay now.','Coach Messages: \u000aJust do it')
+COMMIT
+DISCONNECT
+/*C166*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C167*/SET SCHEMA PUBLIC
+DELETE FROM MEMBERS WHERE ID=23
+INSERT INTO MEMBERS VALUES(23,'Zebra Anderson','4168290813','Toronto Street','C','yes','7','65','1','5','467296.3768686628','tkozak@ryerson.ca','0','\u000a Warnings: \u000a This is an automated message sent to remind you that you have outstanding payments. Please pay now.','Coach Messages: \u000aJust do it')
+COMMIT
+DISCONNECT
+/*C169*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C170*/SET SCHEMA PUBLIC
+DELETE FROM MEMBERS WHERE ID=25
+INSERT INTO MEMBERS VALUES(25,'Jacob Diego','4169576874','1 Toronto Street','C','yes','0','0','3','8','-138.0','jacobdiego@ryerson.ca','2','none','Coach Messages: \u000aJust do it')
+COMMIT
+DISCONNECT
+/*C171*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C172*/SET SCHEMA PUBLIC
+DELETE FROM MEMBERS WHERE ID=25
+INSERT INTO MEMBERS VALUES(25,'Jacob Diego','4169576874','1 Toronto Street','C','yes','0','0','3','8','-139.0','jacobdiego@ryerson.ca','2','none','Coach Messages: \u000aJust do it')
+COMMIT
+DISCONNECT
+/*C173*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C174*/SET SCHEMA PUBLIC
+DELETE FROM MEMBERS WHERE ID=37
+INSERT INTO MEMBERS VALUES(37,'Brianna Ella','4162323115','15 Toronto Street','C','no','9','15','1','70','132837.54066409852','briannaella@ryerson.ca','15','\u000a Warnings: \u000a This is an automated message sent to remind you that you have outstanding payments. Please pay now.','Coach Messages: \u000aJust do it')
+COMMIT
+DISCONNECT
+/*C175*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C176*/SET SCHEMA PUBLIC
+DELETE FROM MEMBERS WHERE ID=29
+INSERT INTO MEMBERS VALUES(29,'Ryan Joel','4168077267','6 Toronto Street','C','yes','3','3','0','69','18166.282536819235','ryanjoel@ryerson.ca','6','\u000a Warnings: \u000a This is an automated message sent to remind you that you have outstanding payments. Please pay now.','Coach Messages: \u000aJust do it')
+COMMIT
+DISCONNECT
+/*C177*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C178*/SET SCHEMA PUBLIC
+DELETE FROM MEMBERS WHERE ID=28
+INSERT INTO MEMBERS VALUES(28,'James Danny','4162874981','5 Toronto Street','C','no','200','400','1','600','3811873.7389143086','jamesdanny@ryerson.ca','5','\u000a Warnings: \u000a This is an automated message sent to remind you that you have outstanding payments. Please pay now.','Coach Messages: \u000aJust do it')
+COMMIT
+DISCONNECT
+/*C179*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C180*/SET SCHEMA PUBLIC
+DELETE FROM MEMBERS WHERE ID=31
+INSERT INTO MEMBERS VALUES(31,'Daniel Jayden','4163482198','8 Toronto Street','C','no','4','6','2','6','46834.097068639014','danieljayden@ryerson.ca','8','\u000a Warnings: \u000a This is an automated message sent to remind you that you have outstanding payments. Please pay now.','Coach Messages: \u000aJust do it')
+COMMIT
+DISCONNECT
+/*C181*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C182*/SET SCHEMA PUBLIC
+DELETE FROM MEMBERS WHERE ID=34
+INSERT INTO MEMBERS VALUES(34,'Emily Angelina','4168886392','12 Toronto Street','C','no','3','5','1','5','37278.15889136579','tkozak@ryerson.ca','12','\u000a Warnings: \u000a This is an automated message sent to remind you that you have outstanding payments. Please pay now.','Coach Messages: \u000aJust do it')
+COMMIT
+DISCONNECT
+/*C183*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C184*/SET SCHEMA PUBLIC
+DELETE FROM MEMBERS WHERE ID=36
+INSERT INTO MEMBERS VALUES(36,'Hannah Olivia','4167163029','14 Toronto Street','C','no','3','1','1','5','-945.5938177273198','tkozak@ryerson.ca','14','\u000a Warnings: \u000a This is an automated message sent to remind you that you have outstanding payments. Please pay now.','Coach Messages: \u000aJust do it')
+COMMIT
+DISCONNECT
+/*C185*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C186*/SET SCHEMA PUBLIC
+DELETE FROM MEMBERS WHERE ID=24
+INSERT INTO MEMBERS VALUES(24,'John Kip','4167583802','Toronto Street','C','yes','1','65','1','5','427.0','johnkip@ryerson.ca','1','\u000a Warnings: \u000a This is an automated message sent to remind you that you have outstanding payments. Please pay now.','Coach Messages: \u000aJust do it')
+COMMIT
+DISCONNECT
+/*C187*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C188*/SET SCHEMA PUBLIC
+DELETE FROM MEMBERS WHERE ID=23
+INSERT INTO MEMBERS VALUES(23,'Zebra Anderson','4168290813','Toronto Street','C','yes','7','65','1','5','467295.3768686628','tkozak@ryerson.ca','0','\u000a Warnings: \u000a This is an automated message sent to remind you that you have outstanding payments. Please pay now.','Coach Messages: \u000aJust do it')
+COMMIT
+DISCONNECT
+/*C168*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C190*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C191*/SET SCHEMA PUBLIC
+DELETE FROM MEMBERS WHERE ID=25
+INSERT INTO MEMBERS VALUES(25,'Jacob Diego','4169576874','1 Toronto Street','C','yes','0','0','3','8','-140.0','jacobdiego@ryerson.ca','2','none','Coach Messages: \u000aJust do it')
+COMMIT
+DISCONNECT
+/*C192*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C193*/SET SCHEMA PUBLIC
+DELETE FROM MEMBERS WHERE ID=30
+INSERT INTO MEMBERS VALUES(30,'Alex Nathan','4167403002','7 Toronto Street','C','yes','0','0','30','30','-81.0','alexnathan@ryerson.ca','7','none','Coach Messages: \u000aJust do it')
+COMMIT
+DISCONNECT
+/*C194*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C195*/SET SCHEMA PUBLIC
+DELETE FROM MEMBERS WHERE ID=39
+INSERT INTO MEMBERS VALUES(39,'Sophie Madison','4163713818',' 13 Toronto Street','C','yes','0','0','3','30','-24.0','sophiemadison@ryerson.ca','0',' ','Coach Messages: \u000aJust do it')
+COMMIT
+DISCONNECT
+/*C196*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C197*/SET SCHEMA PUBLIC
+DELETE FROM MEMBERS WHERE ID=25
+INSERT INTO MEMBERS VALUES(25,'Jacob Diego','4169576874','1 Toronto Street','C','yes','0','0','3','8','-141.0','jacobdiego@ryerson.ca','2','none','Coach Messages: \u000aJust do it')
+COMMIT
+DISCONNECT
+/*C189*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C199*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C200*/SET SCHEMA PUBLIC
+DELETE FROM MEMBERS WHERE ID=23
+INSERT INTO MEMBERS VALUES(23,'Zebra Anderson','4168290813','Toronto Street','C','yes','7','65','1','5','514024.9145555291','tkozak@ryerson.ca','0','\u000a Warnings: \u000a This is an automated message sent to remind you that you have outstanding payments. Please pay now.','Coach Messages: \u000aJust do it')
+COMMIT
+DISCONNECT
+/*C201*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C202*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C203*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C204*/SET SCHEMA PUBLIC
+DELETE FROM MEMBERS WHERE ID=26
+INSERT INTO MEMBERS VALUES(26,'Aaron Gabriel','4166763469','2 Toronto Street','C','yes','2','5','2','20','52557.659975002985','aarongabriel@ryerson.ca','3','\u000a Warnings: \u000a This is an automated message sent to remind you that you have outstanding payments. Please pay now.','Coach Messages: \u000aJust do it')
+COMMIT
+DISCONNECT
+/*C205*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C206*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C207*/SET SCHEMA PUBLIC
+DELETE FROM MEMBERS WHERE ID=28
+INSERT INTO MEMBERS VALUES(28,'James Danny','4162874981','5 Toronto Street','C','no','200','400','1','600','4193061.11280574','jamesdanny@ryerson.ca','5','\u000a Warnings: \u000a This is an automated message sent to remind you that you have outstanding payments. Please pay now.','Coach Messages: \u000aJust do it')
+COMMIT
+DISCONNECT
+/*C208*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C209*/SET SCHEMA PUBLIC
+DELETE FROM MEMBERS WHERE ID=29
+INSERT INTO MEMBERS VALUES(29,'Ryan Joel','4168077267','6 Toronto Street','C','yes','3','3','0','69','19982.91079050116','ryanjoel@ryerson.ca','6','\u000a Warnings: \u000a This is an automated message sent to remind you that you have outstanding payments. Please pay now.','Coach Messages: \u000aJust do it')
+COMMIT
+DISCONNECT
+/*C210*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C211*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C212*/SET SCHEMA PUBLIC
+DELETE FROM MEMBERS WHERE ID=31
+INSERT INTO MEMBERS VALUES(31,'Daniel Jayden','4163482198','8 Toronto Street','C','no','4','6','2','6','51517.506775502916','danieljayden@ryerson.ca','8','\u000a Warnings: \u000a This is an automated message sent to remind you that you have outstanding payments. Please pay now.','Coach Messages: \u000aJust do it')
+COMMIT
+DISCONNECT
+/*C213*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C214*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C215*/SET SCHEMA PUBLIC
+DELETE FROM MEMBERS WHERE ID=33
+INSERT INTO MEMBERS VALUES(33,'Michael Xavier','4164896370','10 Toronto Street','C','no','15','20','1','30','210230.63990001194','michaelxavier@ryerson.ca','10','\u000a Warnings: \u000a This is an automated message sent to remind you that you have outstanding payments. Please pay now.','Coach Messages: \u000aJust do it')
+COMMIT
+DISCONNECT
+/*C216*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C217*/SET SCHEMA PUBLIC
+DELETE FROM MEMBERS WHERE ID=34
+INSERT INTO MEMBERS VALUES(34,'Emily Angelina','4168886392','12 Toronto Street','C','no','3','5','1','5','41005.97478050237','tkozak@ryerson.ca','12','\u000a Warnings: \u000a This is an automated message sent to remind you that you have outstanding payments. Please pay now.','Coach Messages: \u000aJust do it')
+COMMIT
+DISCONNECT
+/*C218*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C219*/SET SCHEMA PUBLIC
+DELETE FROM MEMBERS WHERE ID=36
+INSERT INTO MEMBERS VALUES(36,'Hannah Olivia','4167163029','14 Toronto Street','C','no','3','1','1','5','-1040.1531995000519','tkozak@ryerson.ca','14','\u000a Warnings: \u000a This is an automated message sent to remind you that you have outstanding payments. Please pay now.','Coach Messages: \u000aJust do it')
+COMMIT
+DISCONNECT
+/*C220*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C221*/SET SCHEMA PUBLIC
+DELETE FROM MEMBERS WHERE ID=37
+INSERT INTO MEMBERS VALUES(37,'Brianna Ella','4162323115','15 Toronto Street','C','no','9','15','1','70','146121.29473050838','briannaella@ryerson.ca','15','\u000a Warnings: \u000a This is an automated message sent to remind you that you have outstanding payments. Please pay now.','Coach Messages: \u000aJust do it')
+COMMIT
+DISCONNECT
+/*C222*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C223*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C224*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C225*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C198*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C226*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C227*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C228*/SET SCHEMA PUBLIC
+DELETE FROM MEMBERS WHERE ID=26
+INSERT INTO MEMBERS VALUES(26,'Aaron Gabriel','4166763469','2 Toronto Street','C','yes','2','5','2','20','52557.659975002985','aarongabriel@ryerson.ca','3','\u000a Warnings: \u000a This is an automated message sent to remind you that you have outstanding payments. Please pay now.','Coach Messages: \u000aJust do it')
+COMMIT
+DISCONNECT
+/*C229*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C230*/SET SCHEMA PUBLIC
+DELETE FROM MEMBERS WHERE ID=30
+INSERT INTO MEMBERS VALUES(30,'Alex Nathan','4167403002','7 Toronto Street','C','yes','0','0','30','30','-81.0','alexnathan@ryerson.ca','7','none','Coach Messages: \u000aJust do it')
+COMMIT
+DISCONNECT
+/*C231*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C232*/SET SCHEMA PUBLIC
+DELETE FROM MEMBERS WHERE ID=37
+INSERT INTO MEMBERS VALUES(37,'Brianna Ella','4162323115','15 Toronto Street','C','no','9','15','1','70','146121.29473050838','briannaella@ryerson.ca','15','\u000a Warnings: \u000a This is an automated message sent to remind you that you have outstanding payments. Please pay now.','Coach Messages: \u000aJust do it')
+COMMIT
+DISCONNECT
+/*C233*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C234*/SET SCHEMA PUBLIC
+DELETE FROM MEMBERS WHERE ID=31
+INSERT INTO MEMBERS VALUES(31,'Daniel Jayden','4163482198','8 Toronto Street','C','no','4','6','2','6','51517.506775502916','danieljayden@ryerson.ca','8','\u000a Warnings: \u000a This is an automated message sent to remind you that you have outstanding payments. Please pay now.','Coach Messages: \u000aJust do it')
+COMMIT
+DISCONNECT
+/*C235*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C236*/SET SCHEMA PUBLIC
+DELETE FROM MEMBERS WHERE ID=27
+INSERT INTO MEMBERS VALUES(27,'David Gavin','4164151800','3 Toronto Street','C','no','1','1','0','10','10','davidgavin@ryerson.ca','4','\u000a Warnings: \u000a This is an automated message sent to remind you that you have outstanding payments. Please pay now.','Coach Messages: \u000aJust do it')
+COMMIT
+DISCONNECT
+/*C237*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C238*/SET SCHEMA PUBLIC
+DELETE FROM MEMBERS WHERE ID=27
+INSERT INTO MEMBERS VALUES(27,'David Gavin','4164151800','3 Toronto Street','C','no','1','1','0','10','10','davidgavin@ryerson.ca','4','\u000a Warnings: \u000a This is an automated message sent to remind you that you have outstanding payments. Please pay now.','Coach Messages: \u000aJust do it')
+COMMIT
+DISCONNECT
+/*C239*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C240*/SET SCHEMA PUBLIC
+DELETE FROM MEMBERS WHERE ID=34
+INSERT INTO MEMBERS VALUES(34,'Emily Angelina','4168886392','12 Toronto Street','C','no','3','5','1','5','41005.97478050237','tkozak@ryerson.ca','12','\u000a Warnings: \u000a This is an automated message sent to remind you that you have outstanding payments. Please pay now.','Coach Messages: \u000aJust do it')
+COMMIT
+DISCONNECT
+/*C241*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C242*/SET SCHEMA PUBLIC
+DELETE FROM MEMBERS WHERE ID=36
+INSERT INTO MEMBERS VALUES(36,'Hannah Olivia','4167163029','14 Toronto Street','C','no','3','1','1','5','-1040.1531995000519','tkozak@ryerson.ca','14','\u000a Warnings: \u000a This is an automated message sent to remind you that you have outstanding payments. Please pay now.','Coach Messages: \u000aJust do it')
+COMMIT
+DISCONNECT
+/*C243*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C244*/SET SCHEMA PUBLIC
+DELETE FROM MEMBERS WHERE ID=25
+INSERT INTO MEMBERS VALUES(25,'Jacob Diego','4169576874','1 Toronto Street','C','yes','0','0','3','8','-141.0','jacobdiego@ryerson.ca','2','none','Coach Messages: \u000aJust do it')
+COMMIT
+DISCONNECT
+/*C245*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C246*/SET SCHEMA PUBLIC
+DELETE FROM MEMBERS WHERE ID=25
+INSERT INTO MEMBERS VALUES(25,'Jacob Diego','4169576874','1 Toronto Street','C','yes','0','0','3','8','-141.0','jacobdiego@ryerson.ca','2','none','Coach Messages: \u000aJust do it')
+COMMIT
+DISCONNECT
+/*C247*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C248*/SET SCHEMA PUBLIC
+DELETE FROM MEMBERS WHERE ID=28
+INSERT INTO MEMBERS VALUES(28,'James Danny','4162874981','5 Toronto Street','C','no','200','400','1','600','4193061.11280574','jamesdanny@ryerson.ca','5','\u000a Warnings: \u000a This is an automated message sent to remind you that you have outstanding payments. Please pay now.','Coach Messages: \u000aJust do it')
+COMMIT
+DISCONNECT
+/*C249*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C250*/SET SCHEMA PUBLIC
+DELETE FROM MEMBERS WHERE ID=24
+INSERT INTO MEMBERS VALUES(24,'John Kip','4167583802','Toronto Street','C','yes','1','65','1','5','427.0','johnkip@ryerson.ca','1','\u000a Warnings: \u000a This is an automated message sent to remind you that you have outstanding payments. Please pay now.','Coach Messages: \u000aJust do it')
+COMMIT
+DISCONNECT
+/*C251*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C252*/SET SCHEMA PUBLIC
+DELETE FROM MEMBERS WHERE ID=33
+INSERT INTO MEMBERS VALUES(33,'Michael Xavier','4164896370','10 Toronto Street','C','no','15','20','1','30','210230.63990001194','michaelxavier@ryerson.ca','10','\u000a Warnings: \u000a This is an automated message sent to remind you that you have outstanding payments. Please pay now.','Coach Messages: \u000aJust do it')
+COMMIT
+DISCONNECT
+/*C253*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C254*/SET SCHEMA PUBLIC
+DELETE FROM MEMBERS WHERE ID=29
+INSERT INTO MEMBERS VALUES(29,'Ryan Joel','4168077267','6 Toronto Street','C','yes','3','3','0','69','19982.91079050116','ryanjoel@ryerson.ca','6','\u000a Warnings: \u000a This is an automated message sent to remind you that you have outstanding payments. Please pay now.','Coach Messages: \u000aJust do it')
+COMMIT
+DISCONNECT
+/*C255*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C256*/SET SCHEMA PUBLIC
+DELETE FROM MEMBERS WHERE ID=32
+INSERT INTO MEMBERS VALUES(32,'Shawn Chris','4169057585','9 Toronto Street','C','yes','1','1','2','100','10','shawnchris@ryerson.ca','9','\u000a Warnings: \u000a This is an automated message sent to remind you that you have outstanding payments. Please pay now.','Coach Messages: \u000aJust do it')
+COMMIT
+DISCONNECT
+/*C257*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C258*/SET SCHEMA PUBLIC
+DELETE FROM MEMBERS WHERE ID=39
+INSERT INTO MEMBERS VALUES(39,'Sophie Madison','4163713818',' 13 Toronto Street','C','yes','0','0','3','30','-24.0','sophiemadison@ryerson.ca','0',' ','Coach Messages: \u000aJust do it')
+COMMIT
+DISCONNECT
+/*C259*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C260*/SET SCHEMA PUBLIC
+DELETE FROM MEMBERS WHERE ID=23
+INSERT INTO MEMBERS VALUES(23,'Zebra Anderson','4168290813','Toronto Street','C','yes','7','65','1','5','514024.9145555291','tkozak@ryerson.ca','0','\u000a Warnings: \u000a This is an automated message sent to remind you that you have outstanding payments. Please pay now.','Coach Messages: \u000aJust do it')
+COMMIT
+DISCONNECT
+/*C261*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C262*/SET SCHEMA PUBLIC
+DELETE FROM MEMBERS WHERE ID=38
+INSERT INTO MEMBERS VALUES(38,'taras kozak','911','1 toronto','C','no','0','0','0','0','12','C@gmail.com','0',' ','Coach Messages: \u000aJust do it')
+COMMIT
+DISCONNECT
+/*C263*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C264*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C265*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C266*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C267*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C268*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C269*/SET SCHEMA PUBLIC
+DELETE FROM MEMBERS WHERE ID=27
+INSERT INTO MEMBERS VALUES(27,'David Gavin','4164151800','3 Toronto Street','C','no','1','1','0','10','10','davidgavin@ryerson.ca','4','\u000a Warnings: \u000a This is an automated message sent to remind you that you have outstanding payments. Please pay now.','Coach Messages: \u000aJust do it')
+COMMIT
+DISCONNECT
+/*C270*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C271*/SET SCHEMA PUBLIC
+DELETE FROM MEMBERS WHERE ID=27
+INSERT INTO MEMBERS VALUES(27,'David Gavin','4164151800','3 Toronto Street','C','no','1','1','0','10','10','davidgavin@ryerson.ca','4','\u000a Warnings: \u000a This is an automated message sent to remind you that you have outstanding payments. Please pay now.','Coach Messages: \u000aJust do it')
+COMMIT
+DISCONNECT
+/*C272*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C273*/SET SCHEMA PUBLIC
+DELETE FROM MEMBERS WHERE ID=32
+INSERT INTO MEMBERS VALUES(32,'Shawn Chris','4169057585','9 Toronto Street','C','yes','1','1','2','100','10','shawnchris@ryerson.ca','9','\u000a Warnings: \u000a This is an automated message sent to remind you that you have outstanding payments. Please pay now.','Coach Messages: \u000aJust do it')
+COMMIT
+DISCONNECT
+/*C274*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C275*/SET SCHEMA PUBLIC
+DELETE FROM MEMBERS WHERE ID=36
+INSERT INTO MEMBERS VALUES(36,'Hannah Olivia','4167163029','14 Toronto Street','C','no','3','1','1','5','-1040.1531995000519','tkozak@ryerson.ca','14','\u000a Warnings: \u000a This is an automated message sent to remind you that you have outstanding payments. Please pay now.','Coach Messages: \u000aJust do it')
+COMMIT
+DISCONNECT
+/*C276*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C277*/SET SCHEMA PUBLIC
+DELETE FROM MEMBERS WHERE ID=37
+INSERT INTO MEMBERS VALUES(37,'Brianna Ella','4162323115','15 Toronto Street','C','no','9','15','1','70','146121.29473050838','briannaella@ryerson.ca','15','\u000a Warnings: \u000a This is an automated message sent to remind you that you have outstanding payments. Please pay now.','Coach Messages: \u000aJust do it')
+COMMIT
+DISCONNECT
+/*C278*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C279*/SET SCHEMA PUBLIC
+DELETE FROM MEMBERS WHERE ID=33
+INSERT INTO MEMBERS VALUES(33,'Michael Xavier','4164896370','10 Toronto Street','C','no','15','20','1','30','210230.63990001194','michaelxavier@ryerson.ca','10','\u000a Warnings: \u000a This is an automated message sent to remind you that you have outstanding payments. Please pay now.','Coach Messages: \u000aJust do it')
+COMMIT
+DISCONNECT
+/*C280*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C281*/SET SCHEMA PUBLIC
+DELETE FROM MEMBERS WHERE ID=29
+INSERT INTO MEMBERS VALUES(29,'Ryan Joel','4168077267','6 Toronto Street','C','yes','3','3','0','69','19982.91079050116','ryanjoel@ryerson.ca','6','\u000a Warnings: \u000a This is an automated message sent to remind you that you have outstanding payments. Please pay now.','Coach Messages: \u000aJust do it')
+COMMIT
+DISCONNECT
+/*C282*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C283*/SET SCHEMA PUBLIC
+DELETE FROM MEMBERS WHERE ID=28
+INSERT INTO MEMBERS VALUES(28,'James Danny','4162874981','5 Toronto Street','C','no','200','400','1','600','4193061.11280574','jamesdanny@ryerson.ca','5','\u000a Warnings: \u000a This is an automated message sent to remind you that you have outstanding payments. Please pay now.','Coach Messages: \u000aJust do it')
+COMMIT
+DISCONNECT
+/*C284*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C285*/SET SCHEMA PUBLIC
+DELETE FROM MEMBERS WHERE ID=26
+INSERT INTO MEMBERS VALUES(26,'Aaron Gabriel','4166763469','2 Toronto Street','C','yes','2','5','2','20','52557.659975002985','aarongabriel@ryerson.ca','3','\u000a Warnings: \u000a This is an automated message sent to remind you that you have outstanding payments. Please pay now.','Coach Messages: \u000aJust do it')
+COMMIT
+DISCONNECT
+/*C286*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C287*/SET SCHEMA PUBLIC
+DELETE FROM MEMBERS WHERE ID=34
+INSERT INTO MEMBERS VALUES(34,'Emily Angelina','4168886392','12 Toronto Street','C','no','3','5','1','5','41005.97478050237','tkozak@ryerson.ca','12','\u000a Warnings: \u000a This is an automated message sent to remind you that you have outstanding payments. Please pay now.','Coach Messages: \u000aJust do it')
+COMMIT
+DISCONNECT
+/*C288*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C289*/SET SCHEMA PUBLIC
+DELETE FROM MEMBERS WHERE ID=31
+INSERT INTO MEMBERS VALUES(31,'Daniel Jayden','4163482198','8 Toronto Street','C','no','4','6','2','6','51517.506775502916','danieljayden@ryerson.ca','8','\u000a Warnings: \u000a This is an automated message sent to remind you that you have outstanding payments. Please pay now.','Coach Messages: \u000aJust do it')
+COMMIT
+DISCONNECT
+/*C290*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C291*/SET SCHEMA PUBLIC
+DELETE FROM MEMBERS WHERE ID=24
+INSERT INTO MEMBERS VALUES(24,'John Kip','4167583802','Toronto Street','C','yes','1','65','1','5','427.0','johnkip@ryerson.ca','1','\u000a Warnings: \u000a This is an automated message sent to remind you that you have outstanding payments. Please pay now.','Coach Messages: \u000aJust do it')
+COMMIT
+DISCONNECT
+/*C292*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C293*/SET SCHEMA PUBLIC
+DELETE FROM MEMBERS WHERE ID=23
+INSERT INTO MEMBERS VALUES(23,'Zebra Anderson','4168290813','Toronto Street','C','yes','7','65','1','5','514024.9145555291','tkozak@ryerson.ca','0','\u000a Warnings: \u000a This is an automated message sent to remind you that you have outstanding payments. Please pay now.','Coach Messages: \u000aJust do it')
+COMMIT
+DISCONNECT
+/*C295*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C296*/SET SCHEMA PUBLIC
+DELETE FROM MEMBERS WHERE ID=25
+INSERT INTO MEMBERS VALUES(25,'Jacob Diego','4169576874','1 Toronto Street','C','yes','0','0','3','8','-142.0','jacobdiego@ryerson.ca','2','none','Coach Messages: \u000aJust do it')
+COMMIT
+DISCONNECT
+/*C297*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C298*/SET SCHEMA PUBLIC
+DELETE FROM MEMBERS WHERE ID=25
+INSERT INTO MEMBERS VALUES(25,'Jacob Diego','4169576874','1 Toronto Street','C','yes','0','0','3','8','-143.0','jacobdiego@ryerson.ca','2','none','Coach Messages: \u000aJust do it')
+COMMIT
+DISCONNECT
+/*C299*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C300*/SET SCHEMA PUBLIC
+DELETE FROM MEMBERS WHERE ID=37
+INSERT INTO MEMBERS VALUES(37,'Brianna Ella','4162323115','15 Toronto Street','C','no','9','15','1','70','146120.29473050838','briannaella@ryerson.ca','15','\u000a Warnings: \u000a This is an automated message sent to remind you that you have outstanding payments. Please pay now.','Coach Messages: \u000aJust do it')
+COMMIT
+DISCONNECT
+/*C301*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C302*/SET SCHEMA PUBLIC
+DELETE FROM MEMBERS WHERE ID=29
+INSERT INTO MEMBERS VALUES(29,'Ryan Joel','4168077267','6 Toronto Street','C','yes','3','3','0','69','19981.91079050116','ryanjoel@ryerson.ca','6','\u000a Warnings: \u000a This is an automated message sent to remind you that you have outstanding payments. Please pay now.','Coach Messages: \u000aJust do it')
+COMMIT
+DISCONNECT
+/*C303*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C304*/SET SCHEMA PUBLIC
+DELETE FROM MEMBERS WHERE ID=28
+INSERT INTO MEMBERS VALUES(28,'James Danny','4162874981','5 Toronto Street','C','no','200','400','1','600','4193060.11280574','jamesdanny@ryerson.ca','5','\u000a Warnings: \u000a This is an automated message sent to remind you that you have outstanding payments. Please pay now.','Coach Messages: \u000aJust do it')
+COMMIT
+DISCONNECT
+/*C305*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C306*/SET SCHEMA PUBLIC
+DELETE FROM MEMBERS WHERE ID=31
+INSERT INTO MEMBERS VALUES(31,'Daniel Jayden','4163482198','8 Toronto Street','C','no','4','6','2','6','51516.506775502916','danieljayden@ryerson.ca','8','\u000a Warnings: \u000a This is an automated message sent to remind you that you have outstanding payments. Please pay now.','Coach Messages: \u000aJust do it')
+COMMIT
+DISCONNECT
+/*C307*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C308*/SET SCHEMA PUBLIC
+DELETE FROM MEMBERS WHERE ID=34
+INSERT INTO MEMBERS VALUES(34,'Emily Angelina','4168886392','12 Toronto Street','C','no','3','5','1','5','41004.97478050237','tkozak@ryerson.ca','12','\u000a Warnings: \u000a This is an automated message sent to remind you that you have outstanding payments. Please pay now.','Coach Messages: \u000aJust do it')
+COMMIT
+DISCONNECT
+/*C309*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C310*/SET SCHEMA PUBLIC
+DELETE FROM MEMBERS WHERE ID=36
+INSERT INTO MEMBERS VALUES(36,'Hannah Olivia','4167163029','14 Toronto Street','C','no','3','1','1','5','-1041.1531995000519','tkozak@ryerson.ca','14','\u000a Warnings: \u000a This is an automated message sent to remind you that you have outstanding payments. Please pay now.','Coach Messages: \u000aJust do it')
+COMMIT
+DISCONNECT
+/*C311*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C312*/SET SCHEMA PUBLIC
+DELETE FROM MEMBERS WHERE ID=24
+INSERT INTO MEMBERS VALUES(24,'John Kip','4167583802','Toronto Street','C','yes','1','65','1','5','426.0','johnkip@ryerson.ca','1','\u000a Warnings: \u000a This is an automated message sent to remind you that you have outstanding payments. Please pay now.','Coach Messages: \u000aJust do it')
+COMMIT
+DISCONNECT
+/*C313*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C314*/SET SCHEMA PUBLIC
+DELETE FROM MEMBERS WHERE ID=23
+INSERT INTO MEMBERS VALUES(23,'Zebra Anderson','4168290813','Toronto Street','C','yes','7','65','1','5','514023.9145555291','tkozak@ryerson.ca','0','\u000a Warnings: \u000a This is an automated message sent to remind you that you have outstanding payments. Please pay now.','Coach Messages: \u000aJust do it')
+COMMIT
+DISCONNECT
+/*C294*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C316*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C317*/SET SCHEMA PUBLIC
+DELETE FROM MEMBERS WHERE ID=25
+INSERT INTO MEMBERS VALUES(25,'Jacob Diego','4169576874','1 Toronto Street','C','yes','0','0','3','8','-144.0','jacobdiego@ryerson.ca','2','none','Coach Messages: \u000aJust do it')
+COMMIT
+DISCONNECT
+/*C318*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C319*/SET SCHEMA PUBLIC
+DELETE FROM MEMBERS WHERE ID=30
+INSERT INTO MEMBERS VALUES(30,'Alex Nathan','4167403002','7 Toronto Street','C','yes','0','0','30','30','-82.0','alexnathan@ryerson.ca','7','none','Coach Messages: \u000aJust do it')
+COMMIT
+DISCONNECT
+/*C320*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C321*/SET SCHEMA PUBLIC
+DELETE FROM MEMBERS WHERE ID=39
+INSERT INTO MEMBERS VALUES(39,'Sophie Madison','4163713818',' 13 Toronto Street','C','yes','0','0','3','30','-25.0','sophiemadison@ryerson.ca','0',' ','Coach Messages: \u000aJust do it')
+COMMIT
+DISCONNECT
+/*C322*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C323*/SET SCHEMA PUBLIC
+DELETE FROM MEMBERS WHERE ID=25
+INSERT INTO MEMBERS VALUES(25,'Jacob Diego','4169576874','1 Toronto Street','C','yes','0','0','3','8','-145.0','jacobdiego@ryerson.ca','2','none','Coach Messages: \u000aJust do it')
+COMMIT
+DISCONNECT
+/*C315*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C325*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C326*/SET SCHEMA PUBLIC
+DELETE FROM MEMBERS WHERE ID=23
+INSERT INTO MEMBERS VALUES(23,'Zebra Anderson','4168290813','Toronto Street','C','yes','7','65','1','5','565426.306011082','tkozak@ryerson.ca','0','\u000a Warnings: \u000a This is an automated message sent to remind you that you have outstanding payments. Please pay now.','Coach Messages: \u000aJust do it')
+COMMIT
+DISCONNECT
+/*C327*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C328*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C329*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C330*/SET SCHEMA PUBLIC
+DELETE FROM MEMBERS WHERE ID=26
+INSERT INTO MEMBERS VALUES(26,'Aaron Gabriel','4166763469','2 Toronto Street','C','yes','2','5','2','20','57813.42597250329','aarongabriel@ryerson.ca','3','\u000a Warnings: \u000a This is an automated message sent to remind you that you have outstanding payments. Please pay now.','Coach Messages: \u000aJust do it')
+COMMIT
+DISCONNECT
+/*C331*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C332*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C333*/SET SCHEMA PUBLIC
+DELETE FROM MEMBERS WHERE ID=28
+INSERT INTO MEMBERS VALUES(28,'James Danny','4162874981','5 Toronto Street','C','no','200','400','1','600','4612366.124086314','jamesdanny@ryerson.ca','5','\u000a Warnings: \u000a This is an automated message sent to remind you that you have outstanding payments. Please pay now.','Coach Messages: \u000aJust do it')
+COMMIT
+DISCONNECT
+/*C334*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C335*/SET SCHEMA PUBLIC
+DELETE FROM MEMBERS WHERE ID=29
+INSERT INTO MEMBERS VALUES(29,'Ryan Joel','4168077267','6 Toronto Street','C','yes','3','3','0','69','21980.101869551276','ryanjoel@ryerson.ca','6','\u000a Warnings: \u000a This is an automated message sent to remind you that you have outstanding payments. Please pay now.','Coach Messages: \u000aJust do it')
+COMMIT
+DISCONNECT
+/*C336*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C337*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C338*/SET SCHEMA PUBLIC
+DELETE FROM MEMBERS WHERE ID=31
+INSERT INTO MEMBERS VALUES(31,'Daniel Jayden','4163482198','8 Toronto Street','C','no','4','6','2','6','56668.15745305321','danieljayden@ryerson.ca','8','\u000a Warnings: \u000a This is an automated message sent to remind you that you have outstanding payments. Please pay now.','Coach Messages: \u000aJust do it')
+COMMIT
+DISCONNECT
+/*C339*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C340*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C341*/SET SCHEMA PUBLIC
+DELETE FROM MEMBERS WHERE ID=33
+INSERT INTO MEMBERS VALUES(33,'Michael Xavier','4164896370','10 Toronto Street','C','no','15','20','1','30','231253.70389001316','michaelxavier@ryerson.ca','10','\u000a Warnings: \u000a This is an automated message sent to remind you that you have outstanding payments. Please pay now.','Coach Messages: \u000aJust do it')
+COMMIT
+DISCONNECT
+/*C342*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C343*/SET SCHEMA PUBLIC
+DELETE FROM MEMBERS WHERE ID=34
+INSERT INTO MEMBERS VALUES(34,'Emily Angelina','4168886392','12 Toronto Street','C','no','3','5','1','5','45105.47225855261','tkozak@ryerson.ca','12','\u000a Warnings: \u000a This is an automated message sent to remind you that you have outstanding payments. Please pay now.','Coach Messages: \u000aJust do it')
+COMMIT
+DISCONNECT
+/*C344*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C345*/SET SCHEMA PUBLIC
+DELETE FROM MEMBERS WHERE ID=36
+INSERT INTO MEMBERS VALUES(36,'Hannah Olivia','4167163029','14 Toronto Street','C','no','3','1','1','5','-1145.268519450057','tkozak@ryerson.ca','14','\u000a Warnings: \u000a This is an automated message sent to remind you that you have outstanding payments. Please pay now.','Coach Messages: \u000aJust do it')
+COMMIT
+DISCONNECT
+/*C346*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C347*/SET SCHEMA PUBLIC
+DELETE FROM MEMBERS WHERE ID=37
+INSERT INTO MEMBERS VALUES(37,'Brianna Ella','4162323115','15 Toronto Street','C','no','9','15','1','70','160732.32420355923','briannaella@ryerson.ca','15','\u000a Warnings: \u000a This is an automated message sent to remind you that you have outstanding payments. Please pay now.','Coach Messages: \u000aJust do it')
+COMMIT
+DISCONNECT
+/*C348*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C349*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C350*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C351*/SET SCHEMA PUBLIC
+DISCONNECT
+/*C324*/SET SCHEMA PUBLIC
+DISCONNECT

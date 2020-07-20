@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="406App">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/406AppFinal.zip!/" />
+      <root url="jar://$PROJECT_DIR$/406App.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
